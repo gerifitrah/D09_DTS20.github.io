@@ -226,7 +226,7 @@ q {
 
 .kontak-wrapper {
   background-color: #f9f9f9;
-  background-image: url("../Asset/bg-kontak.png");
+  background-image: url("bg-kontak.png");
   background-size: cover;
   padding: 0.1px 0 50px 0;
 }
